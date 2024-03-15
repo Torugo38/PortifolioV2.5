@@ -10,7 +10,7 @@ const Header = () => {
     });
 
     const [Toggle, showMenu] = useState(false);
-    const [activeNav, setActiveNav] = useState("#home")
+    const [activeNav, setActiveNav] = useState("#home");
 
     return (
         <header className="header">
@@ -20,13 +20,13 @@ const Header = () => {
                 <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
                     <ul className="nav__list grind">
                         <li className="nav__item">
-                            <a href="#home" onDoubleClick={() => setActiveNav ('#home')} className={activeNav === "#home" ? "nav__link active-link" : "nav__link"}>
+                            <a href="#home" onClick={() => setActiveNav ('#home')} className={activeNav === "#home" ? "nav__link active-link" : "nav__link"}>
                                 <i className="uil uil-estate nav__icon"></i> Home
                             </a>
                         </li>
 
                         <li className="nav__item">
-                            <a href="#sobre" className="nav__link">
+                            <a href="#about" onClick={() => setActiveNav ("#about")} className={activeNav === "#about" ? "nav__link active-link" : "nav__link"}>
                                 <i className="uil uil-user nav__icon"></i> Sobre
                             </a>
                         </li>
@@ -44,7 +44,7 @@ const Header = () => {
                         </li>
 
                         <li className="nav__item">
-                            <a href="#contato" className="nav__link">
+                            <a href="#contact" className="nav__link">
                                 <i className="uil uil-message nav__icon"></i> Contato
                             </a>
                         </li>

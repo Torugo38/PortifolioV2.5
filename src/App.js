@@ -8,6 +8,7 @@ import Qualificacao from './components/qualificacao/Qualificacao';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollUp/ScrollUp';
+import Projetos from './components/projetos/Projetos';
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
                 <About />
                 <Skills />
                 <Qualificacao />
+                <Projetos />
                 <Contact />
                 
             </main>
