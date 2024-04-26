@@ -12,7 +12,7 @@ const Ferramentas = () => {
 
                 <div>
                     <h3 className="skills__name">Git</h3>
-                    <span className="skills_level">Intermédio</span>
+                    <span className="skills_level">Intermediário</span>
                 </div>
                 </div>
 

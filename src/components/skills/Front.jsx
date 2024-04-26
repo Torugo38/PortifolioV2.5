@@ -12,7 +12,7 @@ const Front = () => {
 
                 <div>
                     <h3 className="skills__name">HTML</h3>
-                    <span className="skills_level">Intermédio</span>
+                    <span className="skills_level">Intermediário</span>
                 </div>
                 </div>
 
@@ -21,7 +21,7 @@ const Front = () => {
 
                 <div>
                     <h3 className="skills__name">CSS</h3>
-                    <span className="skills_level">Intermédio</span>
+                    <span className="skills_level">Intermediário</span>
                 </div>
                 </div>
 
@@ -30,7 +30,7 @@ const Front = () => {
 
                 <div>
                     <h3 className="skills__name">JavaScript</h3>
-                    <span className="skills_level">Intermédio</span>
+                    <span className="skills_level">Intermediário</span>
                 </div>
                 </div>
 
@@ -39,7 +39,7 @@ const Front = () => {
 
                 <div>
                     <h3 className="skills__name">React</h3>
-                    <span className="skills_level">Intermédio</span>
+                    <span className="skills_level">Intermediário</span>
                 </div>
                 </div>
             </div> 
