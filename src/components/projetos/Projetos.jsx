@@ -1,5 +1,8 @@
 import React from 'react'
 import "./projetos.css"
+import project1Img from "../../assets/project-1.png";
+import project2Img from "../../assets/project-2.jpg";
+import project3Img from "../../assets/project-3.png";
 
 
 
@@ -12,11 +15,7 @@ const Projetos = () => {
         <div className="about-containers">
           <div className="details-container color-container">
             <div className="article-container">
-              <img
-                src="./assets/project-1.png"
-                alt="Project 1"
-                className="project-img"
-              />
+            <img src={project1Img} alt="Project 1" className="project-img"/>
             </div>
             <h2 className="experience-sub-title project-title">
               Projeto Drunk&Drink
@@ -34,17 +33,13 @@ const Projetos = () => {
           </div>
           <div className="details-container color-container">
             <div className="article-container">
-              <img
-                src=""
-                alt="Project 2"
-                className="project-img"
-              />
+            <img src={project2Img} alt="Project 2" className="project-img"/>
             </div>
             <h2 className="experience-sub-title project-title">Projeto Calculadora Simples</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.open("https://github.com/")}
+                onClick={() => window.open("https://github.com/Torugo38/Calculadora-Simples")}
               >
                 Github
               </button>
@@ -52,17 +47,13 @@ const Projetos = () => {
           </div>
           <div className="details-container color-container">
             <div className="article-container">
-              <img
-                src="./assets/project-3.png"
-                alt="Project 3"
-                className="project-img"
-              />
+            <img src={project3Img} alt="Project 3" className="project-img" />
             </div>
-            <h2 className="experience-sub-title project-title">Project Three</h2>
+            <h2 className="experience-sub-title project-title">Projeto PortfólioV1</h2>
             <div className="btn-container">
               <button
                 className="btn btn-color-2 project-btn"
-                onClick={() => window.open("https://github.com/")}
+                onClick={() => window.open("https://github.com/Torugo38/PortifolioV1")}
               >
                 Github
               </button>
