@@ -11,6 +11,7 @@ import ScrollUp from './components/scrollUp/ScrollUp';
 import Projetos from './components/projetos/Projetos';
 
 
+
 const App = () => {
     return (
         <>
@@ -20,9 +21,9 @@ const App = () => {
                 <About />
                 <Skills />
                 <Qualificacao />
-                <Projetos />
+                <Projetos /> 
                 <Contact />
-                
+ 
             </main>
 
             <Footer />

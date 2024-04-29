@@ -18,8 +18,8 @@ const About = () => {
             <Info />
 
             <p className="about__description">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit nihil quasi, natus soluta unde minus,
-               quidem minima cumque doloribus nobis commodi aperiam. Ex sint nobis magnam, cumque magni ratione quasi?
+            Como desenvolvedor, meu foco está no back-end, embora eu também domine o front-end. Apesar de que minha experiência prática seja limitada à faculdade, minha paixão pela programação é evidente. 
+            Além disso, sou um entusiasta de esportes, especialmente basquete, futebol e lutas, que complementam minha vida com energia e equilíbrio.
             </p>
             <a download="" href={CV} className="button button--flex">
               Download CV
