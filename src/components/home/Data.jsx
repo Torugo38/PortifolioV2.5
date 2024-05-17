@@ -7,7 +7,7 @@ const Data = () => {
             <h3 className="home__subtitle">Engenheiro de Software</h3>
             <p className="home__descricao">Busco oportunidades de trabalho remoto ou presencial com o propósito de colocar em prática os conhecimentos que venho
                 aprendendo na faculdade, em experiências e em cursos fora da faculdade. </p>
-            <a href="#contato" className="button button--flex">
+            <a href="#contact" className="button button--flex">
                 Diga Olá
                 <svg
                   class="button__icon"
