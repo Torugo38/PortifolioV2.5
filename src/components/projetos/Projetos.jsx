@@ -16,8 +16,7 @@ const Projetos = () => {
           <img src={project1Img} alt="Project 1" className="project-img" />
           <h3 className="project-title">Drunk&Drink</h3>
             <a href="https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti2-0924100-drunk-drink" className="projeto__button" target="_blank" rel="noopener noreferrer">Github
-                        <i className="bx bx-right-arrow-alt projeto__button-icon"></i></a>
-                        
+                        <i className="bx bx-right-arrow-alt projeto__button-icon"></i></a>                
         </div>
         <div className="projeto-box">
           <img src={project2Img} alt="Project 2" className="project-img" />
