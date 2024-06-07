@@ -53,7 +53,7 @@ const Qualificacao = () => {
                     <h3 className="qualificacao__title">Administração de Banco de Dados</h3>
                     <span className="qualificacao__subtitle">Fundação Bradesco</span>
                     <div className="qualificacao__calender">
-                      <i className="uil uil-calender"></i> 2024 - Até o momento
+                      <i className="uil uil-calender"></i> 2024 - 2024
                     </div>
                   </div>
                 </div>
