@@ -20,8 +20,8 @@ const Projetos = () => {
         </div>
         <div className="projeto-box">
           <img src={project2Img} alt="Project 2" className="project-img" />
-          <h3 className="project-title">Calculadora Simples</h3>
-          <a href="https://github.com/Torugo38/Calculadora-Simples" className="projeto__button" target="_blank" rel="noopener noreferrer">Github
+          <h3 className="project-title">API Caixa Eletrônico</h3>
+          <a href="https://github.com/Torugo38/api-caixa-eletronico" className="projeto__button" target="_blank" rel="noopener noreferrer">Github
                         <i className="bx bx-right-arrow-alt projeto__button-icon"></i></a>
         </div>
         <div className="projeto-box">
