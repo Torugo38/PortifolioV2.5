@@ -47,7 +47,7 @@ const Qualificacao = () => {
                   
                   <div>
                     <span className="qualificacao__rounder"></span>
-                    <span className="qualificacao__line"></span>
+                    {/* linhas */}
                   </div>
                   <div>
                     <h3 className="qualificacao__title">Administração de Banco de Dados</h3>
@@ -107,6 +107,23 @@ const Qualificacao = () => {
                     <span className="qualificacao__rounder"></span>
                     <span className="qualificacao__line"></span>
                   </div>
+                </div>
+
+                <div className="qualificacao__data">
+                  <div></div>
+                  
+                  <div>
+                    <span className="qualificacao__rounder"></span>
+                    {/* linhas */}
+                  </div>
+                  <div>
+                    <h3 className="qualificacao__title">Estágio Full Stack</h3>
+                    <span className="qualificacao__subtitle">MedLogic</span>
+                    <div className="qualificacao__calender">
+                      <i className="uil uil-calender"></i> 07/2024
+                    </div>
+                  </div>
+
                 </div>
               </div>
             </div>
