@@ -84,10 +84,10 @@ const Qualificacao = () => {
                     <span className="qualificacao__line"></span>
                   </div>
                   <div>
-                    <h3 className="qualificacao__title">Estagiário de TI</h3>
-                    <span className="qualificacao__subtitle">Evolua Energia</span>
+                    <h3 className="qualificacao__title">Monitoria de Sistemas Operacionais</h3>
+                    <span className="qualificacao__subtitle">PUC Minas</span>
                     <div className="qualificacao__calender">
-                      <i className="uil uil-calender"></i> 03/2023 - 07/2023
+                      <i className="uil uil-calender"></i> 02/2023 - 07/2023
                     </div>
                   </div>
 
@@ -96,10 +96,10 @@ const Qualificacao = () => {
 
                 <div className="qualificacao__data">
                   <div>
-                    <h3 className="qualificacao__title">Monitoria de Sistemas Operacionais</h3>
-                    <span className="qualificacao__subtitle">PUC Minas</span>
+                    <h3 className="qualificacao__title">Desenvolvedor Full Stack</h3>
+                    <span className="qualificacao__subtitle">MedLogic</span>
                     <div className="qualificacao__calender">
-                      <i className="uil uil-calender"></i> 02/2023 - 07/2023
+                      <i className="uil uil-calender"></i> 07/2024 - 05/2025
                     </div>
                   </div>
 
@@ -109,12 +109,12 @@ const Qualificacao = () => {
                   </div>
                 </div>
 
-                <div className="qualificacao__data">
+                {/* <div className="qualificacao__data">
                   <div></div>
                   
                   <div>
                     <span className="qualificacao__rounder"></span>
-                    {/* linhas */}
+                   
                   </div>
                   <div>
                     <h3 className="qualificacao__title">Desenvolvedor Full Stack</h3>
@@ -124,7 +124,7 @@ const Qualificacao = () => {
                     </div>
                   </div>
 
-                </div>
+                </div> */}
               </div>
             </div>
         </div>
