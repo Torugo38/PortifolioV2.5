@@ -18,8 +18,9 @@ const About = () => {
             <Info />
 
             <p className="about__description">
-            Como desenvolvedor, meu foco está no back-end, embora eu também domine o front-end. Apesar de que minha experiência prática seja limitada à faculdade e alguns outros projetos, minha paixão pela programação é evidente. 
-            Além disso, sou um entusiasta de esportes, especialmente basquete, futebol e lutas, que complementam minha vida com energia e equilíbrio.
+            Tenho 2 anos de experiência na área de desenvolvimento, atuando com Angular, TypeScript, APIs, além de projetos com Java e C#. Participei da criação e manutenção de sistemas web, 
+            sempre com foco em entregar soluções bem estruturadas. Valorizo boas práticas, trabalho em equipe e estou em constante aprendizado. Também já desenvolvi softwares para a área da saúde, 
+            com uso em hospitais, ganhando vivência em sistemas críticos. Além disso, sou entusiasta de esportes como basquete, futebol e lutas, que trazem energia e equilíbrio ao meu dia a dia.
             </p>
             <a download="" href={CV} className="button button--flex">
               Download CV

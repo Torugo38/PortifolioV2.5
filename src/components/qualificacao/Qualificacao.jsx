@@ -117,10 +117,10 @@ const Qualificacao = () => {
                     {/* linhas */}
                   </div>
                   <div>
-                    <h3 className="qualificacao__title">Estágio Full Stack</h3>
+                    <h3 className="qualificacao__title">Desenvolvedor Full Stack</h3>
                     <span className="qualificacao__subtitle">MedLogic</span>
                     <div className="qualificacao__calender">
-                      <i className="uil uil-calender"></i> 07/2024
+                      <i className="uil uil-calender"></i> 07/2024 - 05/2025
                     </div>
                   </div>
 
