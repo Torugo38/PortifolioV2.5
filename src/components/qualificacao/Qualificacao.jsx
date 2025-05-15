@@ -105,7 +105,7 @@ const Qualificacao = () => {
 
                   <div>
                     <span className="qualificacao__rounder"></span>
-                    <span className="qualificacao__line"></span>
+                    {/* <span className="qualificacao__line"></span> */}
                   </div>
                 </div>
 
