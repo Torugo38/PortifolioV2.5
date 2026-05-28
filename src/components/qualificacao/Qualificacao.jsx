@@ -32,7 +32,7 @@ const Qualificacao = () => {
                     <h3 className="qualificacao__title">Engenharia de Software</h3>
                     <span className="qualificacao__subtitle">Graduação PUC Minas</span>
                     <div className="qualificacao__calender">
-                      <i className="uil uil-calender"></i> 2021 - Até o momento
+                      <i className="uil uil-calender"></i> 2021 - {/*Até o momento */}
                     </div>
                   </div>
 
